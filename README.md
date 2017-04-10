@@ -43,6 +43,9 @@ State | Description
 :performing_arts: Awaiting approval. | Part has been submitted and is awaiting approval.
 :checkered_flag: Approved/Finished | Part was approved after submission.
 
+# References
+[1]: Petersen, K., Feldt, R., Mujtaba, S., & Mattsson, M. (2008, June). Systematic Mapping Studies in Software Engineering. In EASE (Vol. 8, pp. 68-77), http://robertfeldt.net/publications/petersen_ease08_sysmap_studies_in_se.pdf .
+
 *: Sharelatex is one of the best LaTeX editors I've found. They provide a comprehensive set of tools along with great [documentation](https://www.sharelatex.com/learn). They provide a free plan for projects with only 1 user if you wish to collaborate with others they provide specific [plans](https://www.sharelatex.com/user/subscription/plans)[2].
 
 **: I am not affiliated with Sharelatex. I am sharing this information out of gratitude. I would not have had the comfort of knowing my Thesis was stored safely without their tooling.
