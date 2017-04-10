@@ -1,7 +1,7 @@
 # Graduate project
 Repository which contains all information of my graduate project on persmissioned blockchains. 
 
-##Structure
+## Structure
 The graduate project is divided into several parts.
 
 1. Literature survey.
@@ -11,30 +11,30 @@ The graduate project is divided into several parts.
 
 This repository is structured in the same way.
 
-##Literature survey
+## Literature survey
 The technique used in this survey is a mapping study which is outlined by (Petersen et al.).  They provides a process in which a scope  for gathering articles is defined, articles are gathered using a specific inclusion criteria, after which they are examined and the necessary data is extracted.
 The survey was written using LaTeX. [ShareLatex](https://www.sharelatex.com)* was used as an online editing environment.
 To view the survey go to `./survey/dist/survey.pdf` .
 
 Status: :pencil: Writing.
 
-##Thesis proposal
+## Thesis proposal
 A required proposal for admittance of the project as a Master Software Engineering graduate project. It provides answers to questions posed by the University of Amsterdam. Which help deciding whether the proposed graduate project is a appropriate project for the Master Software Engineering.
 The survey was written using LaTeX. [ShareLatex](https://www.sharelatex.com)* was used as an online editing environment.
 To view the survey go to `./proposal/dist/proposal.pdf` .
 
 Status: :pencil: Writing.
 
-##Experiment
+## Experiment
 
 Status: :triangular_ruler: Designing 
 
-##Thesis
+## Thesis
 The survey was written using LaTeX. [ShareLatex](https://www.sharelatex.com)* was used as an online editing environment.
 
 Status: :triangular_ruler: Designing 
 
-##Status descriptions
+## Status descriptions
 
 State | Description
 ------------ | -------------
