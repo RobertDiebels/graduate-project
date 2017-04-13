@@ -43,6 +43,9 @@ State | Description
 :performing_arts: Awaiting approval. | Part has been submitted and is awaiting approval.
 :checkered_flag: Approved/Finished | Part was approved after submission.
 
+## Slides
+[Graduate project kick-off presentation](https://docs.google.com/presentation/d/1B57ISnp1vKv3FcQpg1sXjtzGcSVKHE9A89T919pifn0/edit#slide=id.p)
+
 # References
 [1]: Petersen, K., Feldt, R., Mujtaba, S., & Mattsson, M. (2008, June). Systematic Mapping Studies in Software Engineering. In EASE (Vol. 8, pp. 68-77), http://robertfeldt.net/publications/petersen_ease08_sysmap_studies_in_se.pdf .
 
