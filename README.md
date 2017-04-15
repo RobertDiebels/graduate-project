@@ -14,14 +14,14 @@ This repository is structured in the same way.
 ## Literature survey
 The technique used in this survey is a mapping study which is outlined by (Petersen et al.).  They provides a process in which a scope  for gathering articles is defined, articles are gathered using a specific inclusion criteria, after which they are examined and the necessary data is extracted.
 The survey was written using LaTeX. [ShareLatex](https://www.sharelatex.com)* was used as an online editing environment.
-To view the survey go to `./survey/dist/survey.pdf` .
+To view the survey go to `./dist/survey.pdf` .
 
 Status: :pencil: Writing.
 
 ## Thesis proposal
 A required proposal for admittance of the project as a Master Software Engineering graduate project. It provides answers to questions posed by the University of Amsterdam. Which help deciding whether the proposed graduate project is a appropriate project for the Master Software Engineering.
 The survey was written using LaTeX. [ShareLatex](https://www.sharelatex.com)* was used as an online editing environment.
-To view the survey go to `./proposal/dist/proposal.pdf` .
+To view the survey go to `./dist/proposal.pdf` .
 
 Status: :pencil: Writing.
 
@@ -39,7 +39,7 @@ Status: :triangular_ruler: Designing
 State | Description
 ------------ | -------------
 :triangular_ruler: Designing | Designing processes for part.
-:pencil: Editing. | Currently implementing or editing the part.
+:pencil: Editing. | Currently implementing or editing the part.2
 :performing_arts: Awaiting approval. | Part has been submitted and is awaiting approval.
 :checkered_flag: Approved/Finished | Part was approved after submission.
 
