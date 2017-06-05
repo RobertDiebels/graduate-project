@@ -13,24 +13,25 @@ This repository is structured in the same way.
 
 ## Literature survey
 The technique used in this survey is a mapping study which is outlined by (Petersen et al.).  They provides a process in which a scope  for gathering articles is defined, articles are gathered using a specific inclusion criteria, after which they are examined and the necessary data is extracted.
-The survey was written using LaTeX. [ShareLatex](https://www.sharelatex.com)* was used as an online editing environment.
 To view the survey go to `./dist/survey.pdf` .
 
 Status: :pencil: Writing.
 
 ## Thesis proposal
 A required proposal for admittance of the project as a Master Software Engineering graduate project. It provides answers to questions posed by the University of Amsterdam. Which help deciding whether the proposed graduate project is a appropriate project for the Master Software Engineering.
-The survey was written using LaTeX. [ShareLatex](https://www.sharelatex.com)* was used as an online editing environment.
 To view the survey go to `./dist/proposal.pdf` .
 
 Status: :pencil: Writing.
 
 ## Experiment
+Describes a controlled experiment to evaluate the validity of the Thesis's hypothesis.
+To view the experiment go to `./dist/experiemnt.pdf`
 
 Status: :triangular_ruler: Designing 
 
 ## Thesis
-The survey was written using LaTeX. [ShareLatex](https://www.sharelatex.com)* was used as an online editing environment.
+Documented form of the graduate project.
+To view the Thesis go to `./dist/thesis.pdf`
 
 Status: :triangular_ruler: Designing 
 
