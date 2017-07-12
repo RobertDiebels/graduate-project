@@ -69,6 +69,7 @@ class BurrowGenerator extends CLICommand {
     getIPAddrressesWithPort() {
         let ipAddressesWithPort = [];
         this._ipAddresses.forEach(function (ipAddress) {
+            ipAddress = ipAddress.replace("'", "");
             ipAddressesWithPort.push(ipAddress + ':46656');
         });
         return ipAddressesWithPort;
